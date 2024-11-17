@@ -1,5 +1,7 @@
 Ferrer Manuel 4:57pm 11/17
 Elio Yilali 5:07 11/17
+Diego Fernandez Caldas 5:11pm 11/17
+
 
 Windows IP Configuration
 
@@ -75,3 +77,21 @@ Ethernet adapter Bluetooth Network Connection:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.100  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::1e57:4e69:5e47:cde6  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:21:64:95:81  txqueuelen 1000  (Ethernet)
+        RX packets 1405  bytes 1775245 (1.7 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 534  bytes 52129 (52.1 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 240  bytes 19237 (19.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 240  bytes 19237 (19.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
