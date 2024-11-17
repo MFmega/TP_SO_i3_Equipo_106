@@ -1,0 +1,8 @@
+
+Device name	DESKTOP-SH01FH3
+Processor	Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz   2.59 GHz
+Installed RAM	16.0 GB (15.8 GB usable)
+Device ID	0BBAC171-2FCE-4350-B16D-8F18EF1AEEE2
+Product ID	00325-81401-14447-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
