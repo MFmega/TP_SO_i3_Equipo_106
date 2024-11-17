@@ -1,5 +1,5 @@
 Ferrer Manuel 4:57pm 11/17
-
+Elio Yilali 5:07 11/17
 
 Windows IP Configuration
 
@@ -23,6 +23,33 @@ Ethernet adapter Ethernet 2:
    IPv4 Address. . . . . . . . . . . : 192.186.64.1
    Subnet Mask . . . . . . . . . . . : 244.244.244.0
    Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : fd8b:bf7:2130:3c43:ecd9:bc02:b178:20fa
+   Temporary IPv6 Address. . . . . . : fd8b:bf7:2130:3c43:4da6:e6df:42fd:9a9a
+   Link-local IPv6 Address . . . . . : fe80::ecd9:bc02:b178:20fa%10
+   IPv4 Address. . . . . . . . . . . : 196.186.1.8
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 119.186.1.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+
 
 Wireless LAN adapter Local Area Connection* 9:
 
