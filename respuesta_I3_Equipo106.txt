@@ -15,7 +15,18 @@ git push origin main
 Responde GAMMA:
 
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+No, ya que la rama con mayor actulizaciones es la rama principal (el main).
+
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+Por suerte no tuvimos ningun problema.
+
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+git pull origin master
+git checkout Ferrer
+# Editar beta.txt y agregar el nombre, apellido, ifconfig y hora
+git add beta.txt
+git commit -m "gamma"
+git push origin Ferrer
+
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
