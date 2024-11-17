@@ -21,6 +21,7 @@ e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
 Por suerte no tuvimos ningun problema.
 
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
 git pull origin master
 git checkout Ferrer
 # Editar beta.txt y agregar el nombre, apellido, ifconfig y hora
@@ -28,5 +29,15 @@ git add beta.txt
 git commit -m "gamma"
 git push origin Ferrer
 
+
 Responde ALFA:
+
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+git pull
+git checkout Ferrer
+ifconfig
+nano beta.txt
+git add .
+git commit -m "commit"
+git push origin Ferrer
