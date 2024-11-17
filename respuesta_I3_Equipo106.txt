@@ -1,0 +1,21 @@
+Responde BETA:
+a-¿Cómo queda el máster después de estos cambios?
+Con Cpu alfa, gama y beta, beta.txt, datos.txt y el README
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Al hacer la solicitud de pull merge, github te marca todas las diferencias y archivos modificados
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+git pull origin main
+git checkout main
+git merge Yilali
+git commit -m "merge"
+git push origin main
+
+Responde GAMMA:
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
