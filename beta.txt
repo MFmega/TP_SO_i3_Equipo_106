@@ -1,0 +1,97 @@
+Ferrer Manuel 4:57pm 11/17
+Elio Yilali 5:07 11/17
+Diego Fernandez Caldas 5:11pm 11/17
+
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Hamachi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2620:9b::1906:b835
+   Link-local IPv6 Address . . . . . : fe80::9db:4e0f:2124:8df1%9
+   Default Gateway . . . . . . . . . : 2620:9b::1900:1
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::1464:50bb:2bff:5400%4
+   IPv4 Address. . . . . . . . . . . : 192.186.64.1
+   Subnet Mask . . . . . . . . . . . : 244.244.244.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : fd8b:bf7:2130:3c43:ecd9:bc02:b178:20fa
+   Temporary IPv6 Address. . . . . . : fd8b:bf7:2130:3c43:4da6:e6df:42fd:9a9a
+   Link-local IPv6 Address . . . . . : fe80::ecd9:bc02:b178:20fa%10
+   IPv4 Address. . . . . . . . . . . : 196.186.1.8
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 119.186.1.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : fd8b:bf7:2130:3c43:ecd9:bc02:b178:20fa
+   Temporary IPv6 Address. . . . . . : fd8b:bf7:2130:3c43:4da6:e6df:42fd:9a9a
+   Link-local IPv6 Address . . . . . : fe80::ecd9:bc02:b178:20fa%10
+   IPv4 Address. . . . . . . . . . . : 196.186.1.8
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 119.186.1.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.100  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::1e57:4e69:5e47:cde6  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:21:64:95:81  txqueuelen 1000  (Ethernet)
+        RX packets 1405  bytes 1775245 (1.7 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 534  bytes 52129 (52.1 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 240  bytes 19237 (19.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 240  bytes 19237 (19.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
